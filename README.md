@@ -14,9 +14,8 @@ Copy all .bcs files into your /scripts folder.  You shouldn't need to switch to 
 
 ## Hotkeys
 
-[D]isable (AI Toggle)
-[S]pellcasting (Casting Toggle)
-[E]quipment (Item Use Toggle)
-[N]o (Movement Toggle)
+[D]isable (AI Toggle)  
+[S]pellcasting (Casting Toggle)  
+[E]quipment (Item Use Toggle)  
+[N]o (Movement Toggle)  
 [F]rontline (Melee / Ranged Toggle)
-
