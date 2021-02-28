@@ -6,8 +6,6 @@
 // This is a Baldur's Gate Enhanced Edition AI script for the player
 // character and companions that can be used with any class.
 
-// Please read the README.HTM & SPELLS-ITEMS.HTM for more information.
-
 IF
 	Global("BDAI_RESET_TIMERS","GLOBAL",1)
 THEN
