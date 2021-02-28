@@ -4,15 +4,17 @@ I am the author of the original uScript for the original Baldur's Gate II game (
 
 All spells, abilities, and items are supported that Beamdog placed in their scripts.  Since this is a "universal" script, the player and all companions have the same capabilities if they have the spell or ability in question.  This gives your party member more capabilities.  Personally, I really like the end result of this script.  It's consisistant with the design philosophy that Beamdog set forth.
 
-A feature that I had in my original scripts from 20 years ago was automatic movement.  I personally like my party to stay with me when I'm fighting somewhere on the map.  This movement is MUCH improved from my original scripts and WILL NEVER override your commands.  You can easily toggle this for all or individual party members if you don't like it.
+A feature that I had in my original scripts from 20 years ago was automatic movement.  I personally like my party to stay with me when I'm fighting somewhere on the map.  This movement is MUCH improved from my original scripts and WILL NEVER override your commands.  If you want a hero to move to a certain location, they will move there, BUT if there is a fight and they are out of range they WILL move toward the fight unless you disable their movement.  You can easily toggle this for all or individual party members if you wish.
 
-Two other features of note are the intelligent targetting routines and the improved survivability of your party members.  Your party members will feel less dumb and if you like leaving them to their own devices, they should prove much more formidable.
+Two other features of note are the intelligent targetting routines and improved survivability (backing out of fights if low on health, better use of potions, party members coming to help).  Your party members will feel less dumb and if you like leaving them to their own devices, and they should prove much more formidable.
 
-Also included is a script for summoned units so that they are a little more intelligence than the defaults.  They should stay with the summoner, and they have more intelligent rargetting routines.
+Also included is a script for summoned units so that they are a little more intelligence than the defaults.  They should stay with the summoner, and they have more intelligent targetting routines.
 
 ## Installation
 
-Copy all .bcs files into your /scripts folder.  You shouldn't need to switch to these scripts in game unless you are already using a third party script, and in that case it's just like selecting the default script for each character.  The filenames are the same as the original Beamdog scripts so you don't need to select them in game.
+Copy all .bcs files into your /scripts folder for the appropriate game (BGEE or BG2EE).  That's it.  Because the filenames are the same as the ones that Beamdog used for their AI for each party member, they should be automatically be used.  You shouldn't need to switch to these scripts in game unless you are already using a third party script, and in that case it's just like selecting the default script for each character.
+
+You do not need to do anything with the uScript_2001-09-27 file.  I included it in this repository to archive my previous work.
 
 ## Hotkeys
 
