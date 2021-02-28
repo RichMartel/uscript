@@ -12,7 +12,7 @@ Also included is a script for summoned units so that they are a little more inte
 
 ## Installation
 
-Copy all .bcs files into your /scripts folder for the appropriate game (BGEE or BG2EE).  That's it.  Because the filenames are the same as the ones that Beamdog used for their AI for each party member, they should be automatically be used.  You shouldn't need to switch to these scripts in game unless you are already using a third party script, and in that case it's just like selecting the default script for each character.
+Copy all .bcs files into your /scripts folder for the appropriate game (BGEE or BG2EE).  Within the game change the script to Advanced AI for each character.
 
 You do not need to do anything with the uScript_2001-09-27 file.  I included it in this repository to archive my previous work.
 
