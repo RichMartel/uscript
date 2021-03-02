@@ -6,7 +6,7 @@ All spells, abilities, and items are supported that Beamdog placed in their scri
 
 A feature that I had in my original scripts from 20 years ago was automatic movement.  I personally like my party to stay with me when I'm fighting somewhere on the map.  This movement is MUCH improved from my original scripts and WILL NEVER override your commands.  If you want a hero to move to a certain location, they will move there, BUT if there is a fight and they are out of range they WILL move toward the fight unless you disable their movement.  You can easily toggle this for all or individual party members if you wish.
 
-Two other features of note are the intelligent targetting routines and improved survivability (backing out of fights if low on health, better use of potions, party members coming to help).  Your party members will feel less dumb and if you like leaving them to their own devices, and they should prove much more formidable.
+Three other features of note are the intelligent targetting routines, improved survivability (backing out of fights if low on health, better use of potions, party members coming to help), and "tank" switching based on who has the most health.  Your party members will feel less dumb and if you like leaving them to their own devices, and they should prove much more formidable.
 
 Also included is a script for summoned units so that they are a little more intelligence than the defaults.  They should stay with the summoner, and they have more intelligent targetting routines.
 
