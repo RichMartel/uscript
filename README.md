@@ -1,6 +1,6 @@
 # uScript: Enhanced Edition
 
-I am the author of the original uScript for the original Baldur's Gate II game (luckily the original has been saved and hosted on sites like Gibberlings3 and Sorcerers.net).  20 years later I've decided to release my newer and rewritten "uScript" that I was using for the Beamdog Enhanced Editions of the games.  Unlike my original uScript, these scripts are based on Beamdog's default player script, and companion AI script.  They work a lot better than my originals and should seemlessly work without issue.
+I am the author of the original uScript for the original Baldur's Gate II game.  20 years later I've decided to release my newer and rewritten "uScript" that I was using for the Beamdog Enhanced Editions of the games.  Unlike my original uScript, these scripts are based on Beamdog's default player script, and companion AI script.  They work a lot better than my originals and should seemlessly work without issue.
 
 All spells, abilities, and items are supported that Beamdog placed in their scripts.  Since this is a "universal" script, the player and all companions have the same capabilities if they have the spell or ability in question.  This gives your party member more capabilities.  Personally, I really like the end result of this script.  It's consisistant with the design philosophy that Beamdog set forth.
 
@@ -12,7 +12,7 @@ Also included is a script for summoned units so that they are a little more inte
 
 ## Installation
 
-Copy all .bcs files into your /scripts folder for the appropriate game (BGEE or BG2EE).  Within the game change the script to Advanced AI for each character.
+Copy all .bcs files into your /scripts folder for the appropriate game (BGEE or BG2EE).  Within the game change the script to Advanced AI for each character.  All options within the Advanced AI interface are supported as you can think of this script as an upgraded Beamdog script.
 
 You do not need to do anything with the uScript_2001-09-27 file.  I included it in this repository to archive my previous work.
 
