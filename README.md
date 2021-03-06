@@ -1,4 +1,4 @@
-# uScript: Enhanced Edition
+# uScript: AI Party Scripts for Baldur's Gate 1 & 2 Enhanced Editions
 
 I am the author of the original uScript for the original Baldur's Gate II game.  20 years later I've decided to release my newer and rewritten "uScript" that I was using for the Beamdog Enhanced Editions of the games.  Unlike my original uScript, these scripts are based on Beamdog's default player script, and companion AI script.  They work a lot better than my originals and should seemlessly work without issue.
 
